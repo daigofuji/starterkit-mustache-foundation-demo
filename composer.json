@@ -16,12 +16,17 @@
 			"name":         "Brad Frost",
 			"homepage":     "http://bradfrostweb.com",
 			"role":         "Creator"
+		},
+		{
+			"name":         "Daigo Fujiwara",
+			"homepage":     "http://daigofujiwara.com",
+			"role":         "Contrinutor"
 		}
 	],
 	"support": {
-		"issues":         "https://github.com/pattern-lab/starterkit-mustache-demo/issues",
+		"issues":         "https://github.com/pattern-lab/starterkit-mustache-foundation-demo/issues",
 		"wiki":           "http://patternlab.io/docs/",
-		"source":         "https://github.com/pattern-lab/starterkit-mustache-demo/releases"
+		"source":         "https://github.com/pattern-lab/starterkit-mustache-foundation-demo/releases"
 	},
 	"require": {
 		"pattern-lab/core": "~0.5",
