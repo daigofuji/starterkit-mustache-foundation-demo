@@ -1,1 +1,8 @@
 .DS_Store
+
+#removing node_module
+dist/node_modules/
+
+# ignore grunt compiled style.css
+dist/css/*.css
+dist/css/*.map
